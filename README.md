@@ -1,8 +1,6 @@
 # `MedianFilter`
 	
-	Package MedianFilter implements a simple library for image operations. The library can work with pngs or jpgs. Same functions can be used for both of those image types.
-
-98% Test coverage
+Package MedianFilter implements a simple library for image operations. The library can work with pngs or jpgs. Same functions can be used for both of those image types.
 
 ---
 #### Full Documentation:
